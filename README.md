@@ -1,2 +1,2 @@
-# neuropibe_RedConv_Y_Clasificador_ASSHEEEEEE
+# neuropibe_RedConv_Y_Clasificador
 Red feedforward convolucional y clasificadora para FashionMNIST
